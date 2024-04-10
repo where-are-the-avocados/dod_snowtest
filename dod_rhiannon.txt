@@ -1,0 +1,12 @@
+ Objectives:
+====================
+
+There are three flags to cap.
+
+The middle, bridge, flag requires two team members to capture it.
+
+Wads used:
+hlbasics.wad
+dod_avalanche.wad
+liquids.wad
+
